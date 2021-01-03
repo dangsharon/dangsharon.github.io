@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "name": "personal-website-package",
+  "version": "1.0.0",
+  "description": "Package containing dependencies, scripts, etc for my personal website.",
+  "main": "index.js",
+  "repository": "https://github.com/dangsharon/dangsharon.github.io",
+  "author": "Sharon Dang",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-dev-server": "^3.11.1"
+  }
+}
